@@ -1,6 +1,7 @@
 # Codewars
 Este repositório contém meus desafios de lógica resolvidos em JavaScript no Codewars. Aqui, compartilho minhas soluções para cada desafio, como parte do meu desenvolvimento em programação e aprimoramento de lógica.
 
+- [Add Length](https://github.com/LeonardoMancilha/codewars/tree/main/addlength)
 - [Abbrevation Name](https://github.com/LeonardoMancilha/codewars/tree/main/abbrevname)
 - [Basic Function Fixer](https://github.com/LeonardoMancilha/codewars/tree/main/basic-functionfixer)
 - [Capitalizations and Mutability](https://github.com/LeonardoMancilha/codewars/tree/main/capitalizations-and-mutability)
@@ -19,6 +20,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Opposites Attract](https://github.com/LeonardoMancilha/codewars/tree/main/oppositesattract)
 - [Plural](https://github.com/LeonardoMancilha/codewars/tree/main/plural)
 - [Reduce But Grow](https://github.com/LeonardoMancilha/codewars/tree/main/reducebutgrow)
+- [Regular Ball Super Ball](https://github.com/LeonardoMancilha/codewars/tree/main/regular-ball-supper-ball)
 - [Removing Elements](https://github.com/LeonardoMancilha/codewars/tree/main/removingelements)
 - [Reversed Sequence](https://github.com/LeonardoMancilha/codewars/tree/main/reversedsequence)
 - [Reverse Words](https://github.com/LeonardoMancilha/codewars/tree/main/reversedsequence)
