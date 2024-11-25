@@ -30,3 +30,5 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [String UpperCase](https://github.com/LeonardoMancilha/codewars/tree/main/stringuppercase)
 - [Super Duper Easy](https://github.com/LeonardoMancilha/codewars/tree/main/super-duper-easy)
 - [Switch Up](https://github.com/LeonardoMancilha/codewars/tree/main/switchup)
+- [Tail](https://github.com/LeonardoMancilha/codewars/tree/main/tail)
+- [Sequential Count Array](https://github.com/LeonardoMancilha/codewars/tree/main/unfinishedloop)
