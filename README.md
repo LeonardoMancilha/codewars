@@ -1,6 +1,7 @@
-# Codewars
+gi t# Codewars
 Este repositório contém meus desafios de lógica resolvidos em JavaScript no Codewars. Aqui, compartilho minhas soluções para cada desafio, como parte do meu desenvolvimento em programação e aprimoramento de lógica.
 
+- [101 Dalmatians](https://github.com/LeonardoMancilha/codewars/tree/main/101dalmatians)
 - [Add Length](https://github.com/LeonardoMancilha/codewars/tree/main/addlength)
 - [Abbrevation Name](https://github.com/LeonardoMancilha/codewars/tree/main/abbrevname)
 - [Basic Function Fixer](https://github.com/LeonardoMancilha/codewars/tree/main/basic-functionfixer)
@@ -14,6 +15,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Duck Goose](https://github.com/LeonardoMancilha/codewars/tree/main/duckgoose)
 - [Exclamation Marks](https://github.com/LeonardoMancilha/codewars/tree/main/exclamationmarks)
 - [Fake Binary](https://github.com/LeonardoMancilha/codewars/tree/main/fakebinary)
+- [Get Ascii](https://github.com/LeonardoMancilha/codewars/tree/main/getascii)
 - [Hello Function](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
 - [Merge Two Sorted Arrays into One](merge-two-sorted-arrays-into-one)
 - [Name Shuffler](https://github.com/LeonardoMancilha/codewars/tree/main/name-shuffler)
