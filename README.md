@@ -1,4 +1,4 @@
-gi t# Codewars
+# Codewars
 Este repositório contém meus desafios de lógica resolvidos em JavaScript no Codewars. Aqui, compartilho minhas soluções para cada desafio, como parte do meu desenvolvimento em programação e aprimoramento de lógica.
 
 - [101 Dalmatians](https://github.com/LeonardoMancilha/codewars/tree/main/101dalmatians)
@@ -31,6 +31,8 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Sheep](https://github.com/LeonardoMancilha/codewars/tree/main/sheep)
 - [String UpperCase](https://github.com/LeonardoMancilha/codewars/tree/main/stringuppercase)
 - [Super Duper Easy](https://github.com/LeonardoMancilha/codewars/tree/main/super-duper-easy)
+- [Swap Values](https://github.com/LeonardoMancilha/codewars/tree/main/swap-values)
 - [Switch Up](https://github.com/LeonardoMancilha/codewars/tree/main/switchup)
 - [Tail](https://github.com/LeonardoMancilha/codewars/tree/main/tail)
 - [Sequential Count Array](https://github.com/LeonardoMancilha/codewars/tree/main/unfinishedloop)
+- [Vowel](https://github.com/LeonardoMancilha/codewars/tree/main/vowel)
