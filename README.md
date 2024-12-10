@@ -21,6 +21,8 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [For Loop](https://github.com/LeonardoMancilha/codewars/tree/main/forloop)
 - [Get Ascii](https://github.com/LeonardoMancilha/codewars/tree/main/getascii)
 - [Hello Function](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
+- [Hello, Name or World](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
+- [Two Highest Values in List](https://github.com/LeonardoMancilha/codewars/tree/main/highestvalueslist)
 - [Merge Two Sorted Arrays into One](merge-two-sorted-arrays-into-one)
 - [Multiply](https://github.com/LeonardoMancilha/codewars/tree/main/multiply)
 - [Name Shuffler](https://github.com/LeonardoMancilha/codewars/tree/main/name-shuffler)
