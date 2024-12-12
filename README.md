@@ -44,6 +44,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Switch/Case](https://github.com/LeonardoMancilha/codewars/tree/main/switch-case)
 - [Switch Up](https://github.com/LeonardoMancilha/codewars/tree/main/switchup)
 - [Tail](https://github.com/LeonardoMancilha/codewars/tree/main/tail)
+- [Template Strings](https://github.com/LeonardoMancilha/codewars/tree/main/templatestrings)
 - [Two Highest Values in List](https://github.com/LeonardoMancilha/codewars/tree/main/highestvalueslist)
 - [Uefa Euro 2016](https://github.com/LeonardoMancilha/codewars/tree/main/uefa-euro)
 - [Sequential Count Array](https://github.com/LeonardoMancilha/codewars/tree/main/unfinishedloop)
