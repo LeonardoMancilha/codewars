@@ -3,6 +3,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 
 - [101 Dalmatians](https://github.com/LeonardoMancilha/codewars/tree/main/101dalmatians)
 - [Add Length](https://github.com/LeonardoMancilha/codewars/tree/main/addlength)
+- [ASCII Total](https://github.com/LeonardoMancilha/codewars/tree/main/asciitotal)
 - [Abbrevation Name](https://github.com/LeonardoMancilha/codewars/tree/main/abbrevname)
 - [Basic Function Fixer](https://github.com/LeonardoMancilha/codewars/tree/main/basic-functionfixer)
 - [Broken Counter](https://github.com/LeonardoMancilha/codewars/tree/main/brokencounter)
@@ -23,6 +24,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [For Loop](https://github.com/LeonardoMancilha/codewars/tree/main/forloop)
 - [Get Ascii](https://github.com/LeonardoMancilha/codewars/tree/main/getascii)
 - [Grader](https://github.com/LeonardoMancilha/codewars/tree/main/grader)
+- [Catch Sequence Array](https://github.com/LeonardoMancilha/codewars/tree/main/havesequence)
 - [Hello Function](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
 - [Hello, Name or World](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
 - [Logical Calculator](https://github.com/LeonardoMancilha/codewars/tree/main/logicalcalculator)
