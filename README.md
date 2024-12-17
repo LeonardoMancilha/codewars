@@ -43,6 +43,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Reverse List Order](https://github.com/LeonardoMancilha/codewars/tree/main/reverselistorder)
 - [Sheep](https://github.com/LeonardoMancilha/codewars/tree/main/sheep)
 - [String UpperCase](https://github.com/LeonardoMancilha/codewars/tree/main/stringuppercase)
+- [Student Grade](https://github.com/LeonardoMancilha/codewars/tree/main/studentgrade)
 - [Super Duper Easy](https://github.com/LeonardoMancilha/codewars/tree/main/super-duper-easy)
 - [Swap Values](https://github.com/LeonardoMancilha/codewars/tree/main/swap-values)
 - [Switch/Case](https://github.com/LeonardoMancilha/codewars/tree/main/switch-case)
@@ -53,3 +54,4 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Uefa Euro 2016](https://github.com/LeonardoMancilha/codewars/tree/main/uefa-euro)
 - [Sequential Count Array](https://github.com/LeonardoMancilha/codewars/tree/main/unfinishedloop)
 - [Vowel](https://github.com/LeonardoMancilha/codewars/tree/main/vowel)
+- [Simple Fun - Whose Move](https://github.com/LeonardoMancilha/codewars/tree/main/whosemove)
