@@ -3,6 +3,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 
 - [101 Dalmatians](https://github.com/LeonardoMancilha/codewars/tree/main/101dalmatians)
 - [Add Length](https://github.com/LeonardoMancilha/codewars/tree/main/addlength)
+- [Add New Item](https://github.com/LeonardoMancilha/codewars/tree/main/add-new-item)
 - [ASCII Total](https://github.com/LeonardoMancilha/codewars/tree/main/asciitotal)
 - [Abbrevation Name](https://github.com/LeonardoMancilha/codewars/tree/main/abbrevname)
 - [Basic Function Fixer](https://github.com/LeonardoMancilha/codewars/tree/main/basic-functionfixer)
@@ -42,6 +43,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Reversed Words](https://github.com/LeonardoMancilha/codewars/tree/main/reversewords)
 - [Reverse List Order](https://github.com/LeonardoMancilha/codewars/tree/main/reverselistorder)
 - [Sheep](https://github.com/LeonardoMancilha/codewars/tree/main/sheep)
+- [Simple Regex](https://github.com/LeonardoMancilha/codewars/tree/main/simpleregex)
 - [String UpperCase](https://github.com/LeonardoMancilha/codewars/tree/main/stringuppercase)
 - [Student Grade](https://github.com/LeonardoMancilha/codewars/tree/main/studentgrade)
 - [Super Duper Easy](https://github.com/LeonardoMancilha/codewars/tree/main/super-duper-easy)
