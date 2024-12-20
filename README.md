@@ -3,6 +3,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 
 - [101 Dalmatians](https://github.com/LeonardoMancilha/codewars/tree/main/101dalmatians)
 - [Add Length](https://github.com/LeonardoMancilha/codewars/tree/main/addlength)
+- [Arrow Style Function](https://github.com/LeonardoMancilha/codewars/tree/main/arrow-style-functions)
 - [Add New Item](https://github.com/LeonardoMancilha/codewars/tree/main/add-new-item)
 - [ASCII Total](https://github.com/LeonardoMancilha/codewars/tree/main/asciitotal)
 - [Abbrevation Name](https://github.com/LeonardoMancilha/codewars/tree/main/abbrevname)
@@ -28,6 +29,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [For Loop](https://github.com/LeonardoMancilha/codewars/tree/main/forloop)
 - [Get Ascii](https://github.com/LeonardoMancilha/codewars/tree/main/getascii)
 - [Grader](https://github.com/LeonardoMancilha/codewars/tree/main/grader)
+- [GrassHopper Array Mean](https://github.com/LeonardoMancilha/codewars/tree/main/grasshopper-arraymean)
 - [Catch Sequence Array](https://github.com/LeonardoMancilha/codewars/tree/main/havesequence)
 - [Hello Function](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
 - [Hello, Name or World](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
