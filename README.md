@@ -3,6 +3,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 
 - [101 Dalmatians](https://github.com/LeonardoMancilha/codewars/tree/main/101dalmatians)
 - [Add Length](https://github.com/LeonardoMancilha/codewars/tree/main/addlength)
+- [Array Madness](https://github.com/LeonardoMancilha/codewars/tree/main/arraymadness)
 - [Arrow Style Function](https://github.com/LeonardoMancilha/codewars/tree/main/arrow-style-functions)
 - [Add New Item](https://github.com/LeonardoMancilha/codewars/tree/main/add-new-item)
 - [ASCII Total](https://github.com/LeonardoMancilha/codewars/tree/main/asciitotal)
@@ -37,6 +38,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Merge Two Sorted Arrays into One](merge-two-sorted-arrays-into-one)
 - [Multiply](https://github.com/LeonardoMancilha/codewars/tree/main/multiply)
 - [Name Shuffler](https://github.com/LeonardoMancilha/codewars/tree/main/name-shuffler)
+- [Needle HayStack](https://github.com/LeonardoMancilha/codewars/tree/main/needle-haystack)
 - [Opposites Attract](https://github.com/LeonardoMancilha/codewars/tree/main/oppositesattract)
 - [Parse Float](https://github.com/LeonardoMancilha/codewars/tree/main/parsefloat)
 - [Plural](https://github.com/LeonardoMancilha/codewars/tree/main/plural)
