@@ -3,6 +3,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 
 - [101 Dalmatians](https://github.com/LeonardoMancilha/codewars/tree/main/101dalmatians)
 - [Add Length](https://github.com/LeonardoMancilha/codewars/tree/main/addlength)
+- [Age](https://github.com/LeonardoMancilha/codewars/tree/main/age)
 - [Array Madness](https://github.com/LeonardoMancilha/codewars/tree/main/arraymadness)
 - [Arrow Style Function](https://github.com/LeonardoMancilha/codewars/tree/main/arrow-style-functions)
 - [Add New Item](https://github.com/LeonardoMancilha/codewars/tree/main/add-new-item)
@@ -18,6 +19,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Convert String To Array](https://github.com/LeonardoMancilha/codewars/tree/main/convertstringtoarray)
 - [Count By X](https://github.com/LeonardoMancilha/codewars/tree/main/countbyx)
 - [Count Monkey](https://github.com/LeonardoMancilha/codewars/tree/main/countmonkey)
+- [CSV Array](https://github.com/LeonardoMancilha/codewars/tree/main/csv-array)
 - [Date Time](https://github.com/LeonardoMancilha/codewars/tree/main/datetime)
 - [Divisible](https://github.com/LeonardoMancilha/codewars/tree/main/divisible)
 - [DNA To RNA](https://github.com/LeonardoMancilha/codewars/tree/main/dnatorna)
