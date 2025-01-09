@@ -58,6 +58,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Sort and Star](https://github.com/LeonardoMancilha/codewars/tree/main/sortandstar)
 - [String UpperCase](https://github.com/LeonardoMancilha/codewars/tree/main/stringuppercase)
 - [Student Grade](https://github.com/LeonardoMancilha/codewars/tree/main/studentgrade)
+- [Sum Of Differences](https://github.com/LeonardoMancilha/codewars/tree/main/sumOfDifferences)
 - [Super Duper Easy](https://github.com/LeonardoMancilha/codewars/tree/main/super-duper-easy)
 - [Swap Values](https://github.com/LeonardoMancilha/codewars/tree/main/swap-values)
 - [Switch/Case](https://github.com/LeonardoMancilha/codewars/tree/main/switch-case)
