@@ -54,6 +54,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Parse Float](https://github.com/LeonardoMancilha/codewars/tree/main/parsefloat)
 - [Plural](https://github.com/LeonardoMancilha/codewars/tree/main/plural)
 - [Printing Array](https://github.com/LeonardoMancilha/codewars/tree/main/printingarray)
+- [Push Item](https://github.com/LeonardoMancilha/codewars/tree/main/push)
 - [Reduce But Grow](https://github.com/LeonardoMancilha/codewars/tree/main/reducebutgrow)
 - [Regular Ball Super Ball](https://github.com/LeonardoMancilha/codewars/tree/main/regular-ball-supper-ball)
 - [Remove First and Last Element](https://github.com/LeonardoMancilha/codewars/tree/main/remove-first-and-last-element)
