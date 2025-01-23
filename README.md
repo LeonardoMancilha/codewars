@@ -45,6 +45,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Hello, Name or World](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
 - [Logical Calculator](https://github.com/LeonardoMancilha/codewars/tree/main/logicalcalculator)
 - [Merge Two Sorted Arrays into One](merge-two-sorted-arrays-into-one)
+- [Multiple Array Numbers](multiplearray)
 - [Multiple Index](multipleindex)
 - [Multiply](https://github.com/LeonardoMancilha/codewars/tree/main/multiply)
 - [Name on Billboard](https://github.com/LeonardoMancilha/codewars/tree/main/name-billboard)
