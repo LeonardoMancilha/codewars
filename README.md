@@ -45,6 +45,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Good vs Bad Ideas](https://github.com/LeonardoMancilha/codewars/tree/main/wellideas)
 - [Grader](https://github.com/LeonardoMancilha/codewars/tree/main/grader)
 - [GrassHopper Array Mean](https://github.com/LeonardoMancilha/codewars/tree/main/grasshopper-arraymean)
+- [Get the mean of an array](https://github.com/LeonardoMancilha/codewars/tree/main/mean-array)
 - [Catch Sequence Array](https://github.com/LeonardoMancilha/codewars/tree/main/havesequence)
 - [Hello Function](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
 - [Hello, Name or World](https://github.com/LeonardoMancilha/codewars/tree/main/hellofunction)
