@@ -54,6 +54,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Implement Array Prototype Filter](https://github.com/LeonardoMancilha/codewars/tree/main/implement-array-prototype)
 - [Invert Values](https://github.com/LeonardoMancilha/codewars/tree/main/invertvalues)
 - [Logical Calculator](https://github.com/LeonardoMancilha/codewars/tree/main/logicalcalculator)
+- [Make UpperCase](https://github.com/LeonardoMancilha/codewars/tree/main/makeuppercase)
 - [Merge Two Sorted Arrays into One](merge-two-sorted-arrays-into-one)
 - [Merging Sorted Integer Arrays Without Duplicates](merging-sorted-integer-arrays)
 - [Multiple Array Numbers](multiplearray)
@@ -107,4 +108,5 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Uefa Euro 2016](https://github.com/LeonardoMancilha/codewars/tree/main/uefa-euro)
 - [Sequential Count Array](https://github.com/LeonardoMancilha/codewars/tree/main/unfinishedloop)
 - [Vowel](https://github.com/LeonardoMancilha/codewars/tree/main/vowel)
+- [Welcome City](https://github.com/LeonardoMancilha/codewars/tree/main/welcome-city)
 - [Simple Fun - Whose Move](https://github.com/LeonardoMancilha/codewars/tree/main/whosemove)
