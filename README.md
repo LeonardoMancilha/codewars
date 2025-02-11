@@ -109,6 +109,7 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Tail](https://github.com/LeonardoMancilha/codewars/tree/main/tail)
 - [Template Strings](https://github.com/LeonardoMancilha/codewars/tree/main/templatestrings)
 - [Tip](https://github.com/LeonardoMancilha/codewars/tree/main/tail)
+- [Total Amount of Points](https://github.com/LeonardoMancilha/codewars/tree/main/total-amount-points)
 - [Two Highest Values in List](https://github.com/LeonardoMancilha/codewars/tree/main/highestvalueslist)
 - [Uefa Euro 2016](https://github.com/LeonardoMancilha/codewars/tree/main/uefa-euro)
 - [Sequential Count Array](https://github.com/LeonardoMancilha/codewars/tree/main/unfinishedloop)
@@ -116,3 +117,4 @@ Este repositório contém meus desafios de lógica resolvidos em JavaScript no C
 - [Wall](https://github.com/LeonardoMancilha/codewars/tree/main/wall)
 - [Welcome City](https://github.com/LeonardoMancilha/codewars/tree/main/welcome-city)
 - [Simple Fun - Whose Move](https://github.com/LeonardoMancilha/codewars/tree/main/whosemove)
+- [Wolf](https://github.com/LeonardoMancilha/codewars/tree/main/wolf)
